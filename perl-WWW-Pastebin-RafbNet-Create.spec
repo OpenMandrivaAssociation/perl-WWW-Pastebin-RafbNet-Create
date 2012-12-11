@@ -61,3 +61,23 @@ rm -rf $RPM_BUILD_ROOT
 
 
 
+
+
+%changelog
+* Mon Apr 25 2011 Funda Wang <fwang@mandriva.org> 0.001-4mdv2011.0
++ Revision: 658427
+- rebuild for updates rpm-setup
+
+* Fri Sep 04 2009 Thierry Vignaud <tv@mandriva.org> 0.001-3mdv2010.0
++ Revision: 430660
+- rebuild
+
+* Fri Aug 08 2008 Thierry Vignaud <tv@mandriva.org> 0.001-2mdv2009.0
++ Revision: 268879
+- rebuild early 2009.0 package (before pixel changes)
+
+* Sat Apr 12 2008 Olivier Thauvin <nanardon@mandriva.org> 0.001-1mdv2009.0
++ Revision: 192633
+- import perl-WWW-Pastebin-RafbNet-Create
+
+
