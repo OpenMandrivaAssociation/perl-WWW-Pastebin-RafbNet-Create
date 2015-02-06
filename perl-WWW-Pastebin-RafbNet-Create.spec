@@ -1,7 +1,7 @@
 
 %define realname   WWW-Pastebin-RafbNet-Create
 %define version    0.001
-%define release    5
+%define release    6
 
 Name:       perl-%{realname}
 Version:    %{version}
