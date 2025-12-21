@@ -12,6 +12,7 @@ Summary:    create new pastes on http://rafb.net/
 Source:     http://www.cpan.org/modules/by-module/WWW/%{realname}-%{version}.tar.gz
 Url:        https://search.cpan.org/dist/%{realname}
 BuildRoot:  %{_tmppath}/%{name}-%{version}-%{release}-buildroot
+BuildRequires:	make
 BuildRequires: perl-devel
 BuildRequires: perl(Carp)
 BuildRequires: perl(Class::Data::Accessor)
